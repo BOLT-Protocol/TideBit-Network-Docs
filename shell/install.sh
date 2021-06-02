@@ -15,5 +15,5 @@ cd TideBit-Network-Docs
 npm i
 
 ### Start Service
-pm2 start . --name TideBit Bridge
-echo "pm2 start . --name TideBit Docs" | sudo tee -a /etc/fstab
+pm2 start . --name "TideBitDocs"
+echo "pm2 start . --name TideBitDocs" | sudo tee -a /etc/fstab
