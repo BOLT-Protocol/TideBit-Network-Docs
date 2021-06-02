@@ -1,8 +1,16 @@
 # TideBit Network Docs
 
-Using docsify to host this site.
+## Service Port
+- 80 HTTP
+- 443 HTTPS
 
+## Setup Environment
+* Ubuntu 18.04 and 20.04
 ```
-npm i docsify-cli -g
-docsify serve ./
+bash <(curl https://raw.githubusercontent.com/BOLT-Protocol/TideBit-Network-Docs/master/shell/prepare.sh -kL)
+```
+
+## Deploy Service
+```
+bash <(curl https://raw.githubusercontent.com/BOLT-Protocol/TideBit-Network-Docs/master/shell/install.sh -kL)
 ```
