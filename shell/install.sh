@@ -8,12 +8,12 @@
 cd ~
 mkdir workspace
 cd workspace
-git clone https://github.com/BOLT-Protocol/TideBitBridge
+git clone https://github.com/BOLT-Protocol/TideBit-Network-Docs
 
 ### Build Service
-cd TideBitBridge
+cd TideBit-Network-Docs
 npm i
 
 ### Start Service
 pm2 start . --name TideBit Bridge
-echo "pm2 start . --name TideBit Bridge" | sudo tee -a /etc/fstab
+echo "pm2 start . --name TideBit Docs" | sudo tee -a /etc/fstab
