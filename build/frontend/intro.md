@@ -1,4 +1,4 @@
-# TideBit Chain
+# 概述介紹
 
 ## 技術特色
 
@@ -12,22 +12,10 @@ TideBit Chain 是基於以太坊標準的區塊鏈技術，作為一個高速且
 - 開發友善 - 平台上所有服務採用統一的智能合約通訊協定，服務整合就像拼樂高積木一樣簡單
 - TideWallet Connect - 提供標準介面快速串接各種區塊鏈錢包 APP
 
-## 應用程式
-
-- 友善的用戶介面
-- 支援 BTC、ETH 交易
-- 支援 Wallet Connect
-
 ## 發展藍圖
-
-過去發展軌跡以及未來展望
-
 - April 2021 - TideBit Chain 測試網上線
-
 - May 2021 - C3 服務上線，支援 Ethereum 資產移轉至 TideBit Chain
-
 - June 2021 - TideCash 上線，發行基於演算法的穩定匯率加密貨幣
-
 - Auguest 2021 - TideBit Ecosystem 上線，提供用戶存取各式 TideBit 生態系上的應用服務
 
 ## 常見問題

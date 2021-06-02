@@ -53,7 +53,7 @@
   ],
   "license": "GPLv3",
   "main": "bin/main.js",
-  "name": "TideBit Network Documents",
+  "name": "tidebit-network-docs",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/BOLT-Protocol/TideBit-Network-Docs.git"

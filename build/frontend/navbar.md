@@ -1,4 +1,4 @@
-- [Homepage](https://127.0.0.1/)
+- [Homepage](/)
 - Translations
   - [繁體中文](/)
   - [English](/en-us/intro)

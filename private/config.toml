@@ -4,7 +4,7 @@ title = "TideBit-Network-Docs"
 
 [base]
 folder = "TideBit-Network-Docs"
-static = "~/workspace/TideBit-Network-Docs/build/frontend/"
+static = "./build/frontend/"
 debug = false
 
 [blockchain]
