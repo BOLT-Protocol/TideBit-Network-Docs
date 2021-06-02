@@ -54,5 +54,4 @@ TideBit Chain 是基於以太坊標準的區塊鏈技術，作為一個高速且
 下面是我們的聯繫方式，歡迎任何形式的企業合作進行接洽
 
 - [info@tidewallet.io](mailto:info@tidewallet.io)
-- +886-2-27001979
 - [BOLT-Protocol@github](https://github.com/BOLT-Protocol)
