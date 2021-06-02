@@ -1,4 +1,4 @@
 - [概述介紹](/intro.md)
 - [平台生態系](/ecosystem.md)
 - [專利技術](/patents.md)
-- [開發手冊](/handbook.md)
+- [使用手冊](/handbook.md)
